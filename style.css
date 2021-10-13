@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* #007CC2 */
+
+/* #1D4771 */
+
+.myDropDown a:hover{
+    background-color: gray;
+}
+
+.headings{
+    border-bottom: 2px solid lightgray;
+}
+
+.menCardBOx{
+    max-width: 300px;
+}
+
+.aboutContent>div{
+    width: 400px ;
+    /* border: 1px solid red; */
+}
